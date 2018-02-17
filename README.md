@@ -1,3 +1,3 @@
 # nodejs
 
-Uses express framework, Angular.
+Uses express framework, Angular 2, Angular-cli.
